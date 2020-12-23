@@ -1,0 +1,19 @@
+.nav-wrapper {
+  background: red;
+}
+.page-footer {
+  background: red;
+}
+.man{
+  size: 20px;
+}
+
+.slider{
+  width: 70%;
+  margin: 100px auto;
+  color: black;
+}
+.slick-prev:before,
+.slick-next:before{
+  color:black;
+}
